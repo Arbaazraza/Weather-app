@@ -49,3 +49,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function (event)
     }
 }); 
 weather.fetchWeather("Lucknow");
+//new
